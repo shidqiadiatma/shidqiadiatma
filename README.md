@@ -1,10 +1,10 @@
 # Shidqi Adiatma
 
-Hello （＾∀＾）ゞ
+Hello（＾∀＾）ゞ
 
 My name is **Shidqi Adiatma**, you can call me **Qi**.
-I am undergraduate student in Gunadarma University major in Information System.
-I have interest about information technology especially in **Quality Assurance.**
+ I am undergraduate student in Gunadarma University major in Information System.
+ I have interest about information technology especially in **Quality Assurance.**
 
 <p align="left">
 <a href="https://github.com/joliefelicia">
