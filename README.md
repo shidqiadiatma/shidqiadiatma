@@ -1,6 +1,6 @@
 # Shidqi Adiatma
 
-Hello（＾∀＾）ゞ
+Hello（＾∀＾）ゞ✨
 
 My name is **Shidqi Adiatma**, you can call me **Qi**.
  I am undergraduate student in Gunadarma University major in Information System.
