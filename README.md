@@ -1,5 +1,5 @@
-Hello 
-My Name is **Shidqi Adiatma**, you can call me **Qi** ٩(ˊᗜˋ )و.
+<p>Hello</p> 
+<p>My Name is *Shidqi Adiatma*, you can call me **Qi** ٩(ˊᗜˋ )و </p>
 I am undergraduate student in Gunadarma University major in Information System.
 I have interest about information technology especially in QA Engineer.
 
