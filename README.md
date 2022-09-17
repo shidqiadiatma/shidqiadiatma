@@ -7,7 +7,7 @@ My name is **Shidqi Adiatma**, you can call me **Qi**.
  I have interest about information technology especially in **Quality Assurance.**
 
 <p align="left">
-<a href="https://github.com/shidqiadiatma">
+<a href="https://github.com/shidqiadiatma?tab=repositories">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shidqiadiatma&show_icons=true&theme=merko"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shidqiadiatma&layout=compact&langs_count=8&theme=merko"/>
 </a>
