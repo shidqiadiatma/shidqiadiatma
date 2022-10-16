@@ -2,8 +2,8 @@
 
 **Hello（＾∀＾）ゞ✨**
 
-My name's **Shidqi Adiatma**, you can call me **Qii**.
- I'm undergraduate student in Gunadarma University major in Information System.
+My name's **Shidqi Adiatma**, you can call me **Qii**,
+ undergraduate student in Gunadarma University major in Information System.
  I have interest about information technology especially in **Quality Assurance.**
 
 <p align="left">
