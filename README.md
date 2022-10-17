@@ -3,8 +3,10 @@
 **Hello（＾∀＾）ゞ✨**
 
 My name's **Shidqi Adiatma**, you can call me **Qii**,
- undergraduate student in Gunadarma University major in Information System.
- I have interest about information technology especially in **Quality Assurance.**
+ 
+Undergraduate student in Gunadarma University major in Information System.
+ 
+I have interest about information technology especially in **Quality Assurance.**
 
 <p align="left">
 <a href="https://github.com/shidqiadiatma?tab=repositories">
