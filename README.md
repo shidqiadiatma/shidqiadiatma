@@ -1,13 +1,5 @@
 # Shidqi Adiatma
 
-**Hello（＾∀＾）ゞ✨**
-
-My name's **Shidqi Adiatma**, you can call me **Qii**,
- 
-Undergraduate student in Gunadarma University major in Information System.
- 
-I have interest about information technology especially in **Quality Assurance.**
-
 <p align="left">
 <a href="https://github.com/shidqiadiatma?tab=repositories">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shidqiadiatma&show_icons=true&theme=merko"/>
